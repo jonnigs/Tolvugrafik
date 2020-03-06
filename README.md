@@ -1,6 +1,6 @@
 # Tolvugrafik
 
-## Collection og my projects that I did in the course Tölvugrafík (Computer graphics)
+### Collection og my projects that I did in the course Tölvugrafík (Computer graphics)
 
 #### Larger project 3
 
