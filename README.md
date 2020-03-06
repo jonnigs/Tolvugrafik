@@ -1,8 +1,11 @@
 # Tolvugrafik
 
-Samsafn af verkefnum sem voru unnin í námskeiðinu Tölvugrafík
+Collection og my projects that I did in the course Tölvugrafík (Computer graphics)
 
 #### Heimaverkefni 7
+
+Exercise 2 - Change the room from Heimaverkefni 6 so it has a grass textured floor and 20 randomly placed tree crosses. Controls are WASD and spin with the mouse.  
+[Running version](https://notendur.hi.is/~jgs7/tolvugrafik/Heimadaemi%207/VeggurGolf.html).
 
 #### Heimaverkefni 6
 
