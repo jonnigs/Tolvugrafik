@@ -1,6 +1,6 @@
 # Tolvugrafik
 
-Collection of my projects that I did in the course Tölvugrafík (Computer graphics)
+Collection of my projects that I did in the course Tölvugrafík (Computer graphics). All of the projects are made with WebGL, a JavaScript API.
 
 ### Larger project 3
 
