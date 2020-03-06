@@ -11,13 +11,13 @@ Collection of my projects that I did in the course Tölvugrafík (Computer graph
 ### Larger project 2
 
 A fish tank with fishes swimming in their own directions at their own speed. Pressing A the fishes will allign to each other and swim at the same speed.  
-[The GitHub repo for the project](https://github.com/jonnigs/Verkefni_2).  
+[The GitHub repo for the project](https://github.com/jonnigs/Tolvugrafik_Verkefni_2).  
 [Running version](https://notendur.hi.is/~jgs7/tolvugrafik/Verkefni%202/fish.html).
 
 ### Larger project 1
 
 The classic game Pong. Made for one player where he controls both paddles at the same time with the arrows. A point appears regulary and the game speeds up as you collect more points.  
-[The GitHub repo for the project](https://github.com/jonnigs/Verkefni_1).  
+[The GitHub repo for the project](https://github.com/jonnigs/Tolvugrafik_Verkefni_1).  
 [Running version](https://notendur.hi.is/~jgs7/tolvugrafik/Verkefni%201/v1.html).
 
 ### Heimaverkefni 7
