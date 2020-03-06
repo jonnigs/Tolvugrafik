@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<style type="text/css">
+    canvas { background: blue; }
+</style>
+
+
+<script id="vertex-shader" type="x-shader/x-vertex">
+
+attribute  vec4 vPosition;
+attribute  vec2 vTexCoord;
+
+//varying vec4 fColor;
+varying vec2 fTexCoord;
+
+uniform mat4 projection;
+uniform mat4 modelview;
+
+void main()
+{
+    fTexCoord = vTexCoord;
+    gl_Position = projection * modelview * vPosition;
+}
+</script>
+
+<script id="fragment-shader" type="x-shader/x-fragment">
+
+precision mediump float;
+
+//varying vec4 fColor;
+varying vec2 fTexCoord;
+
+uniform sampler2D texture;
+
+void
+main()
+{
+    vec4 color = texture2D( texture, fTexCoord );
+    if( color.r + color.g + color.b < 0.1 )
+        discard;
+    else
+        gl_FragColor = color;
+}
+</script>
+
+
+<script type="text/javascript" src="../webgl-utils.js"></script>
+<script type="text/javascript" src="../initShaders.js"></script>
+<script type="text/javascript" src="../MV.js"></script>
+<script type="text/javascript" src="VeggurGolf.js"></script>
+
+
+<body>
+<canvas id="gl-canvas" width="800" height="800">
+Oops ... your browser doesn't support the HTML5 canvas element
+</canvas>
+
+<img id = "TreeImage" src = "tree.jpg" hidden></img>
+<img id = "GrassImage" src = "grass.jpg" hidden></img>
+</body>
+</html>
