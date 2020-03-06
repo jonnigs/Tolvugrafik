@@ -24,10 +24,19 @@ Exercise 5 - A "house" made in two different ways, one with triangles and one wi
 Exercise 4 - A spining square that changes it's size if you click and drag.  
 [Running version](https://notendur.hi.is/~jgs7/tolvugrafik/Heimadaemi%203/daemi%204/rotatingSquare.html).
 
-Exercise 5 - Make a function that makes an object keep spinning once the user spins and lets go. Slowly the spin fades out and the object returns to normal.
+Exercise 5 - Make a function that makes an object keep spinning once the user spins and lets go. Slowly the spin fades out and the object returns to normal.  
 [Running version](https://notendur.hi.is/~jgs7/tolvugrafik/Heimadaemi%203/daemi%205/hhpyramid.html).
 
 ##### Heimaverkefni 4
+
+Exercise 3 - Make a stool from 5 cubes by moving and scaling them.  
+[Running version](https://notendur.hi.is/~jgs7/tolvugrafik/Heimadaemi%204/daemi3/d3.html).
+
+Exercise 4 - Make a solarsystem with the Sun, Earth, Moon and a satelight around the moon.  
+[Running version](https://notendur.hi.is/~jgs7/tolvugrafik/Heimadaemi%204/daemi4/solkerfi.html).
+
+Exercise 5 - Make spining helicopter blades from two cubes.
+[Running version](https://notendur.hi.is/~jgs7/tolvugrafik/Heimadaemi%204/daemi5/d5.html).
 
 ##### Heimaverkefni 5
 
